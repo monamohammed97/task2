@@ -1,0 +1,98 @@
+@media screen and (max-width: 991.98px) {
+  h1 {
+    font-size: 30px;
+    margin: 3rem 0 2rem 0;
+  }
+
+  .heroSection>p {
+    font-size: 25px;
+  }
+
+  #input {
+    height: 45px;
+    font-size: 16px;
+  }
+
+  .paragraph {
+    font-size: 20px;
+  }
+
+  button {
+    font-size: 18px;
+    margin-top: 3rem;
+  }
+}
+
+@media screen and (max-width: 767.98px) {
+  h1 {
+    font-size: 25px;
+    margin: 2rem 0 1.5rem 0;
+  }
+
+  .heroSection>p {
+    font-size: 20px;
+  }
+
+  #input {
+    height: 40px;
+    font-size: 15px;
+  }
+
+  .paragraph {
+    font-size: 18px;
+  }
+
+  button {
+    font-size: 16px;
+    margin-top: 3rem;
+  }
+
+  .heroSection {
+    width: 80%;
+    padding-bottom: 2.5rem;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+
+  .heroSection {
+    box-shadow: 0px 0px 9px #726868;
+  }
+
+  .heroSection,
+  .sectionTwo {
+    width: 90%;
+  }
+
+  #input {
+    width: 75%;
+  }
+
+  h1 {
+    font-size: 20px;
+    margin: 2rem 0 1.5rem 0;
+  }
+
+  .heroSection>p {
+    font-size: 18px;
+  }
+
+  #input {
+    height: 35px;
+    font-size: 14px;
+  }
+
+  .inputLBox,
+  .inputRBox {
+    height: 35px;
+  }
+
+  .paragraph {
+    font-size: 16px;
+  }
+
+  button {
+    font-size: 15px;
+    margin-top: 3rem;
+  }
+}
